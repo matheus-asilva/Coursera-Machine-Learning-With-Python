@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
-import matplotlib.plt as plt
-from mpl_toolkits.mplot3d import axes3d, Axes3D
+import matplotlib.pyplot as plt
 
 path = 'Week 1/Data/'
 
