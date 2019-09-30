@@ -27,7 +27,7 @@ Machine Learning (Coursera) assignments in Python
 - [ ] Week 8 - K-means Clustering and Principal Component Analysis
 - [ ] Week 9 - Anomaly Detection and Recommender Systems
 
-<br><br>
+<br>
 
 #### About the Machine Learning course by Andrew Ng 
 
