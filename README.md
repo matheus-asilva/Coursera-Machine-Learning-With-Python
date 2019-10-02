@@ -29,7 +29,7 @@ Machine Learning (Coursera) assignments in Python
 
 #### About the Machine Learning course by Andrew Ng 
 
-This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
+This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. 
 
 Topics include: 
 * Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks)
