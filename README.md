@@ -19,7 +19,7 @@ Machine Learning (Coursera) assignments in Python
 
 
 - [x] [Week 2 - Linear Regression](https://github.com/matheus-asilva/Coursera-Machine-Learning-With-Python/blob/master/Week%201/exercise1.ipynb)
-- [ ] Week 3 - Logistic Regression
+- [x] [Week 3 - Logistic Regression](https://github.com/matheus-asilva/Coursera-Machine-Learning-With-Python/blob/master/Week%203/exercise2.ipynb)
 - [ ] Week 4 - Multi-class Classification and Neural Networks
 - [ ] Week 5 - Neural Networks Learning
 - [ ] Week 6 - Regularized Linear Regression and Bias vs. Variance
